@@ -4,4 +4,4 @@ title: Home
 permalink: /
 ---
 
-<h1>{{ "Hello World!" | downcase }}</h1>
+# Welcome to Space Bud's Website!
