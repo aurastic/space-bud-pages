@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-permalink: /about.md
 ---
 
 # About Space Bud
