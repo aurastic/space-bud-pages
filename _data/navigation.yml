@@ -2,7 +2,7 @@
   link: /space-bud-pages
 - name: About
   link: about.html
-- name: Blog
+- name: Updates
   link: blog.html
 - name: Game Structure
   link: organization.html
