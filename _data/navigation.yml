@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: about.html
 - name: Blog
-  link: /blog.html
+  link: blog.html
 - name: Game Structure
-  link: /organization.html
+  link: organization.html
 - name: Screenshots
-  link: /screenshots.html
+  link: screenshots.html
